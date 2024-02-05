@@ -45,3 +45,4 @@ print(np7)
 my_list = [1, 2, 3, 5, 6]
 np8 = np.array(my_list)
 print(np8)
+print(type(np8))
